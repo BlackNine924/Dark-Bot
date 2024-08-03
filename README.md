@@ -11,5 +11,5 @@ Todo o conteúdo gerado pelo Dark Bot deve respeitar as Diretrizes da Comunidade
 Não somos responsáveis por quaisquer danos diretos, indiretos ou consequenciais resultantes do uso do Dark Bot.
 ## 5. Idade Mínima ##
 O bot não pode ser usado por indivíduos menores de idade, como diz nos termos de serviço da plataforma
-## 6. ##
+## 6. Dúvidas##
 Caso tenha alguma dúvida sobre os Termos de Serviço ou sobre a Política de Privacidade, entre em contato conosco visitando esta página: https://discord.gg/UAbWkzbznp
