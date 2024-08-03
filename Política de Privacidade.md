@@ -1,4 +1,4 @@
-🔒 Política de Privacidade do Dark Bot
+# 🔒 Política de Privacidade do Dark Bot #
 O Dark Bot valoriza sua privacidade. Esta Política de Privacidade descreve como coletamos, usamos e protegemos suas informações.
 
 ## 1. Informações Coletadas ##
@@ -16,4 +16,4 @@ O Dark Bot valoriza sua privacidade. Esta Política de Privacidade descreve como
 ## 6. Alterações na Política ##
 **Atualizações:** Podemos atualizar esta Política de Privacidade periodicamente. Avisaremos sobre quaisquer alterações importantes.
 ## 7. Contatos ##
-Para dúvidas sobre a Política de Privacidade, entre em contato com https://discord.gg/UAbWkzbznp.
+Caso tenha alguma dúvida sobre os Termos de Serviço ou sobre a Política de Privacidade, entre em contato conosco visitando esta página: https://discord.gg/UAbWkzbznp
