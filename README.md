@@ -1,5 +1,5 @@
 # 📜 Termos de Serviço do Dark Bot
-** Bem-vindo ao Dark Bot!** Ao utilizar nosso bot, você concorda com os seguintes termos:
+**Bem-vindo ao Dark Bot!** Ao utilizar nosso bot, você concorda com os seguintes termos:
 
 ## 1. Aceitação dos Termos ##
 Ao usar o Dark Bot, você concorda com os Termos de Serviço e com a Política de Privacidade do Discord.
